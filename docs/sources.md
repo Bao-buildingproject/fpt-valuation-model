@@ -4,7 +4,7 @@ Files are stored locally / in a private Drive folder. Page numbers are the print
 
 | Fiscal year | Audited consolidated FS file | Audited? | Balance sheet page | Income statement page | Cash flow page | Segment note page |
 |---|---|---|---|---|---|---|
-| FY2020 | FPT_audited_consolidated_financial_statements_2020 | yes (Deloitte) | 5- 8 | 9 | 10-11 | 12-50 |
+| FY2020 | FPT_audited_consolidated_financial_statements_2020 | yes (Deloitte) | 5-8 | 9 | 10-11 | 12-50 |
 | FY2021 | FPT_audited_consolidated_financial_statements_2021 | yes (PwC) | 5-8 | 9 | 10-11 | 12-61 |
 | FY2022 | FPT_audited_consolidated_financial_statements_2022 | yes (PwC) | 5-8 | 9 | 10-11 | 12-66 |
 | FY2023 | FPT_audited_consolidated_financial_statements_2023 | yes (PwC) | 5-8 | 9 | 10-11 | 12-69 |
